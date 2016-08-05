@@ -1,0 +1,42 @@
+_repo: The-Fallen-Star-or-the-History-of-a-False-Religion-by-E.L.-Bulwer--And-A-Dissertation-on-the-O__8654
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Brougham and Vaux, Henry Brougham, Baron
+    aliases:
+    - Brougham, Henry, Baron Brougham and Vaux
+    - Vaux, Henry Brougham, Baron Brougham and
+    - Brougham and Vaux, Henry Peter Brougham, baron
+    - Tomkins, Isaac
+    - Jenkins, Peter
+    birthdate: 1778
+    deathdate: 1868
+    gutenberg_agent_id: '2834'
+    url: http://www.gutenberg.org/2009/agents/2834
+  - agent_name: Lytton, Edward Bulwer Lytton, Baron
+    aliases:
+    - Bulwer-Lytton, Edward George Earle Lytton, 1st Baron
+    - Bulwer, Edward Lytton
+    birthdate: 1803
+    deathdate: 1873
+    gutenberg_agent_id: '761'
+    url: http://www.gutenberg.org/2009/agents/761
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bulwer-Lytton,_1st_Baron_Lytton
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8654'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religion'
+- !lcc 'BL'
+- !lcsh 'Good and evil'
+- !lcsh 'Free thought'
+- GITenberg
+title: The Fallen Star, or, the History of a False Religion by E.L. Bulwer; And, A
+  Dissertation on the Origin of Evil by Lord Brougham
+url: http://www.gutenberg.org/ebooks/8654
